@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "2WORLDS",
+  "base_artist": "Madge & VALORANT",
+  "createdAt": "2026-02-16T07:27:08.558582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge feat. VALORANT",
+      "has_synced": true,
+      "path": "select/01_2WORLDS_Madge_feat._VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "2WORLDS // Madge x VALORANT - Official Audio",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/02_2WORLDS___Madge_x_VALORANT_-_Official_Audio_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge, VALORANT",
+      "has_synced": true,
+      "path": "select/03_2WORLDS_Madge,_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge",
+      "has_synced": true,
+      "path": "select/04_2WORLDS_Madge.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/05_2WORLDS_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge feat. VALORANT",
+      "has_synced": true,
+      "path": "select/06_2WORLDS_Madge_feat._VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "2WORLDS // Madge x VALORANT - Official Audio",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/07_2WORLDS___Madge_x_VALORANT_-_Official_Audio_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge",
+      "has_synced": true,
+      "path": "select/08_2WORLDS_Madge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge • VALORANT",
+      "has_synced": true,
+      "path": "select/09_2WORLDS_Madge_•_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "VALORANT & Madge",
+      "has_synced": true,
+      "path": "select/10_2WORLDS_VALORANT_&_Madge.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "VALORANT",
+      "has_synced": true,
+      "path": "select/11_2WORLDS_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "2WORLDS - Demo Version",
+      "artist": "Madge & VALORANT",
+      "has_synced": true,
+      "path": "select/12_2WORLDS_-_Demo_Version_Madge_&_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "2WORLDS - Demo Version",
+      "artist": "Madge",
+      "has_synced": true,
+      "path": "select/13_2WORLDS_-_Demo_Version_Madge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "2WORLDS (Demo Version)",
+      "artist": "Madge • VALORANT",
+      "has_synced": true,
+      "path": "select/14_2WORLDS_(Demo_Version)_Madge_•_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "2WORLDS",
+      "artist": "Madge\u0000VALORANT",
+      "has_synced": true,
+      "path": "select/15_2WORLDS_Madge\u0000VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "2worlds",
+      "artist": "Madge & VALORANT",
+      "has_synced": true,
+      "path": "select/16_2worlds_Madge_&_VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "2WORLDS (Demo Version)",
+      "artist": "Madge\u0000VALORANT",
+      "has_synced": true,
+      "path": "select/17_2WORLDS_(Demo_Version)_Madge\u0000VALORANT.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "2WORLDS (Paused)",
+      "artist": "Madge",
+      "has_synced": true,
+      "path": "select/18_2WORLDS_(Paused)_Madge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2WORLDS",
+      "artist": "MADGE & VALORANT",
+      "has_synced": false,
+      "path": "select/pl_01_2WORLDS_MADGE_&_VALORANT.txt"
+    }
+  ]
+}
